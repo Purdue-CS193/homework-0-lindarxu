@@ -4,7 +4,8 @@ Here are my favorite things about CS 193
 - The class isn't that large.
 - The teachers are cool.
 - It feels like a collaborative environment rather than a competitive environment.
-- The PSO instructor for P13 is cool. 
+- The PSO instructor for P13 is cool.
+- I like the color scheme of the slides.
 
 ## Welcome to GitHub Pages
 
