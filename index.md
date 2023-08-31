@@ -1,5 +1,11 @@
 # Linda's first CS193 Homework
 
+Here are my favorite things about CS 193
+- The class isn't that large.
+- The teachers are cool.
+- It feels like a collaborative environment rather than a competitive environment.
+- The PSO instructor for P13 is cool. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
